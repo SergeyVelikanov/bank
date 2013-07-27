@@ -22,5 +22,5 @@ Hay que implementar el modelo del banco en Java, y crear una clase de prueba que
 * Herencia
 * Polimorfismo y ligadura dinámica
 * Excepciones
-* Redefinición por reemplazo y refinamiento.
+* Redefinición por reemplazo y refinamiento.<br/>
 3  Crear una clase main, que genere varios objetos, y pruebe el compartamiento de las clases mostrando el resultado por pantalla, en la misma consola.
